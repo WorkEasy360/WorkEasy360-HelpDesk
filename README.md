@@ -177,3 +177,4 @@ packages/shared  Zod schemas and types shared by the frontend and backend
 5. ~~**Omnichannel** — email, live chat, WhatsApp, Instagram, Messenger, Telegram, telephony~~ ✅
 6. ~~**AI** — summary, sentiment, intent, suggested reply, KB-grounded answers~~ ✅ (pgvector/RAG later)
 7. ~~**Analytics** — dashboards, reports, agent performance, SLA reporting, CSAT~~ ✅
+# WorkEasy360-HelpDesk
