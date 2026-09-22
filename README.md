@@ -179,3 +179,4 @@ packages/shared  Zod schemas and types shared by the frontend and backend
 7. ~~**Analytics** — dashboards, reports, agent performance, SLA reporting, CSAT~~ ✅
 # WorkEasy360-HelpDesk
 # WorkEasy360-HelpDesk
+# WorkEasy360-HelpDesk
