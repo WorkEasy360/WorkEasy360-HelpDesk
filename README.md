@@ -178,3 +178,4 @@ packages/shared  Zod schemas and types shared by the frontend and backend
 6. ~~**AI** — summary, sentiment, intent, suggested reply, KB-grounded answers~~ ✅ (pgvector/RAG later)
 7. ~~**Analytics** — dashboards, reports, agent performance, SLA reporting, CSAT~~ ✅
 # WorkEasy360-HelpDesk
+# WorkEasy360-HelpDesk
